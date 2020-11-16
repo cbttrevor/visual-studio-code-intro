@@ -9,6 +9,7 @@ Why should you consider using Microsoft Visual Studio Code (VSCode) for software
 * Highly customizable user interface
 * Integrate with developer tools, such as Docker and cloud platforms
 * Get Intellisense / auto-completion as you're writing code
+* Integrates with popular task runners such as gulp, grunt
 
 Who should use VSCode?
 
@@ -23,4 +24,5 @@ What tasks can you use Visual Studio Code as an aid for?
 
 * Data processing
 * Writing code in any language
-* Running automated unit tests
+* Running automated tests
+* Generate software documentation
